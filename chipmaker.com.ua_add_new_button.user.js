@@ -24,6 +24,7 @@
     " ipsButton_fullWidth\" href=\"/index.php?/classifieds/submit/&_new=1\">НОВЫЙ ТОВАР</a>"+
     "</div>");
 
+
 //скрыть стандартную кнопку добавить товар
     $(".ipsPageHeader.ipsClearfix.ipsSpacer_bottom .ipsToolList_primaryAction").hide();
 })();
